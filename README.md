@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Victor, a full-time full stack developer (mostly in the .NET environment). I currently write my master thesis in the field of distributed data plattforms.</div>  
   
 
