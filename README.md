@@ -1,7 +1,7 @@
 ### <div align="center">I'm Victor, a full-time full stack developer (mostly in the .NET environment). I currently write my master thesis in the field of distributed data plattforms.</div>  
   
 
-- 🔭 I’m currently working on [VHIdentityModels](https://github.com/TheTanic/VHIdentityModels)  
+- 🔭 I’m currently working on [TrainingAppBackend](https://github.com/OinkyBros/TrainingAppBackend)  
   
 
 - 🌱 I’m currently expand my abilities in .NET6, CSS and HTML  
