@@ -1,5 +1,4 @@
-### <div align="center">I'm Victor, a full-time full stack developer (mostly in the .NET environment). I currently write my master thesis in the field of distributed data plattforms.</div>  
-  
+### <div align="center">I'm Victor, a full-time full stack developer (mostly in the .NET environment), with a Master of Enginieering in Telematics.
 
 - 🔭 I’m currently working on [TrainingAppBackend](https://github.com/OinkyBros/TrainingAppBackend)  
   
