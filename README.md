@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [TrainingAppBackend](https://github.com/OinkyBros/TrainingAppBackend)  
   
 
-- 🌱 I’m currently expand my abilities in .NET6, CSS and HTML  
+- 🌱 I’m currently expand my abilities in .NET8 and Avalonia UI  
   
 
 - 🌐 My native language is 🇩🇪 but I'm comfortable to speak/write 🇺🇸  
