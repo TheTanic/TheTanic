@@ -1,6 +1,6 @@
 ### <div align="center">I'm Victor, a full-time full stack developer (mostly in the .NET environment), with a Master of Enginieering in Telematics.
 
-- 🔭 I’m currently working on [TrainingAppBackend](https://github.com/OinkyBros/TrainingAppBackend)  
+- 🔭 I’m currently working on [Semoda](https://github.com/users/TheTanic/projects/4)  
   
 
 - 🌱 I’m currently expand my abilities in .NET8 and Avalonia UI  
